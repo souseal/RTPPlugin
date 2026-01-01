@@ -1,0 +1,8 @@
+name: RTPPlugin
+version: 1.0
+main: me.rtpplugin.rtp.RTPPlugin
+api-version: 1.20
+commands:
+  rtp:
+    description: Teleport player to a random place.
+    permission: rtp.use

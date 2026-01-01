@@ -1,0 +1,19 @@
+worlds:
+  world:
+    enabled: true
+    max_radius: 5000
+  world_nether:
+    enabled: true
+    max_radius: 2000
+  world_the_end:
+    enabled: true
+    max_radius: 1000
+
+max_attempts: 10
+
+messages:
+  no_permission: "Você não pode usar esse comando."
+  world_not_configured: "RTP não configurado nesse mundo."
+  searching: "Procurando local."
+  success: "Teleportado com sucesso."
+  fail: "Não foi possível se teleportar para o local."
